@@ -2,3 +2,5 @@
 
 
 Primeira alteração no arquivo (Teste GitHub)
+
+Segunda alteração de teste.
